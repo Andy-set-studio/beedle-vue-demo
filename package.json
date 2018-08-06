@@ -1,0 +1,33 @@
+{
+  "name": "beedle-vue-demo",
+  "version": "1.0.0",
+  "description": "A little demo to show how you can use Beedle with Vue JS without a connector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hankchizljaw/beedle-vue-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hankchizljaw/beedle-vue-demo/issues"
+  },
+  "homepage": "https://github.com/hankchizljaw/beedle-vue-demo#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "beedle": "^0.6.6",
+    "eslint": "^5.3.0",
+    "eslint-plugin-vue": "^4.7.1",
+    "vue": "^2.5.17",
+    "vue-loader": "^15.2.6",
+    "vue-template-compiler": "^2.5.17",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  }
+}
