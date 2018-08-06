@@ -1,5 +1,5 @@
 <template>
-    <div class="boilerform">
+    <div class="[ boilerform ] [ password ]">
         <div>
             <label for="password" class="c-label">Enter your password</label>
             <input class="c-input-field" :type="fieldType" id="password" />
